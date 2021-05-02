@@ -13,6 +13,6 @@ If you prefer real-time discussion, we also have a few **Gitter channels**:
  - [`rsocket-community`](https://gitter.im/rsocket/community) all community questions
  - [`rsocket-java`](https://gitter.im/rsocket/rsocket-java) rsocket-java related questions
 
-Refer to each project's README for potential other sources of information.
+Refer to each project's README for potential other sources of information. 
 	
 We generally discourage opening GitHub issues for questions, in favor of the two channels above.
